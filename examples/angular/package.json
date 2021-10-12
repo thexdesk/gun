@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^4.1.0",
     "@angular/platform-browser-dynamic": "^4.1.0",
     "@angular/router": "^4.1.0",
-    "core-js": "^2.4.1",
+    "core-js": "^2.6.12",
     "express-http-proxy": "^1.0.1",
     "gun": "^0.7.4",
     "ngx-pipes": "^2.0.5",
